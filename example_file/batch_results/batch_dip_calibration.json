@@ -1,0 +1,61 @@
+{
+  "reference_slope": -0.04559,
+  "reference_dip_deg": 2.61,
+  "median_valid_dip_deg": 2.32,
+  "n_calibration_images": 5,
+  "n_probe_success": 5,
+  "align_core": true,
+  "max_dip_after_align_deg": 7.0,
+  "force_vertical_after_align": true,
+  "calibration_image_names": [
+    "27-1h.bmp",
+    "27-2h.bmp",
+    "27-3h.bmp",
+    "27-4h.bmp",
+    "27-5h.bmp"
+  ],
+  "probe_records": [
+    {
+      "image": "27-1h.bmp",
+      "ok": true,
+      "slope_hint": -0.04558885516776255,
+      "n_valid_laminae": 1,
+      "median_valid_dip_deg": 2.3247458406197277,
+      "error": ""
+    },
+    {
+      "image": "27-2h.bmp",
+      "ok": true,
+      "slope_hint": 0.0006785336161007527,
+      "n_valid_laminae": 1,
+      "median_valid_dip_deg": 0.0,
+      "error": ""
+    },
+    {
+      "image": "27-3h.bmp",
+      "ok": true,
+      "slope_hint": 0.030696140225726143,
+      "n_valid_laminae": 0,
+      "median_valid_dip_deg": 0.0,
+      "error": ""
+    },
+    {
+      "image": "27-4h.bmp",
+      "ok": true,
+      "slope_hint": -0.6887959193929343,
+      "n_valid_laminae": 1,
+      "median_valid_dip_deg": 34.35751704148862,
+      "error": ""
+    },
+    {
+      "image": "27-5h.bmp",
+      "ok": true,
+      "slope_hint": -0.4667446865751951,
+      "n_valid_laminae": 0,
+      "median_valid_dip_deg": 0.0,
+      "error": ""
+    }
+  ],
+  "warnings": [],
+  "subfolder": "(root)"
+}

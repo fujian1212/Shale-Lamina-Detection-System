@@ -1,0 +1,128 @@
+============================================================
+Rock Core Lamina Identification System - Batch Processing Report
+============================================================
+
+Report generated at: 2026-08-17 10:35:53
+
+Unique-lamina statistics (recommended for papers):
+----------------------------------------
+total_image_count: 8
+successful_image_count: 8
+failed_image_count: 0
+total_unique_laminae: 239
+avg_unique_laminae_per_image: 29.88
+avg_lamina_spacing_px: 105.69
+lamina_spacing_std_px: 136.87
+max_lamina_spacing_px: 1289.77
+min_lamina_spacing_px: 17.62
+avg_lamina_spacing_mm: 
+lamina_spacing_std_mm: 
+avg_thickness_to_next_px: 135.88
+thickness_to_next_std_px: 340.09
+max_thickness_to_next_px: 4799.9
+min_thickness_to_next_px: 17.6
+avg_thickness_to_next_mm: 
+thickness_to_next_std_mm: 
+max_thickness_to_next_mm: 
+min_thickness_to_next_mm: 
+avg_dip_angle_deg: 2.45
+avg_fit_residual_px: 5.5
+avg_support_lines_per_lamina: 14.64
+avg_cross_line_support_ratio: 0.813
+
+Candidate-point statistics (diagnostic; per-scan-line totals):
+----------------------------------------
+candidate_change_points_total: 10759
+candidate_scan_line_total: 9
+avg_candidate_spacing_px: 24.3
+candidate_spacing_std_px: 41.95
+max_candidate_spacing_px: 1150.0
+min_candidate_spacing_px: 4.0
+avg_candidate_strength: 18.4445
+candidate_strength_std: 4.7434
+
+Success rate: 100.0%
+
+Per-image processing details:
+----------------------------------------
+1. 27-1h
+   - Unique laminae (cross-line clustered): 28
+   - Avg lamina spacing (within-image): 125.1 px
+   - Avg thickness_to_next (cross-image aware): 146.54 px (n=28)
+   - Spacing CV: 93.3 %
+   - Avg dip angle: 3.25 deg
+   - Avg supporting scan lines: 14.64 / 18
+   - Candidate change-points: 1217 (diagnostic; sum over all scan lines)
+
+2. 27-2h
+   - Unique laminae (cross-line clustered): 39
+   - Avg lamina spacing (within-image): 91.0 px
+   - Avg thickness_to_next (cross-image aware): 211.74 px (n=39)
+   - Spacing CV: 223.3 %
+   - Avg dip angle: 0.0 deg
+   - Avg supporting scan lines: 15.15 / 18
+   - Candidate change-points: 1190 (diagnostic; sum over all scan lines)
+
+3. 27-3h
+   - Unique laminae (cross-line clustered): 0
+   - Avg lamina spacing (within-image): 0.0 px
+   - Spacing CV: 0.0 %
+   - Avg dip angle: 0.0 deg
+   - Avg supporting scan lines: 0.0 / 18
+   - Candidate change-points: 742 (diagnostic; sum over all scan lines)
+
+4. 27-4h
+   - Unique laminae (cross-line clustered): 35
+   - Avg lamina spacing (within-image): 101.69 px
+   - Avg thickness_to_next (cross-image aware): 116.31 px (n=35)
+   - Spacing CV: 117.2 %
+   - Avg dip angle: 3.13 deg
+   - Avg supporting scan lines: 13.83 / 18
+   - Candidate change-points: 1520 (diagnostic; sum over all scan lines)
+
+5. 27-5h
+   - Unique laminae (cross-line clustered): 21
+   - Avg lamina spacing (within-image): 177.21 px
+   - Avg thickness_to_next (cross-image aware): 194.12 px (n=21)
+   - Spacing CV: 92.7 %
+   - Avg dip angle: 2.64 deg
+   - Avg supporting scan lines: 14.19 / 18
+   - Candidate change-points: 1498 (diagnostic; sum over all scan lines)
+
+6. 27-6h
+   - Unique laminae (cross-line clustered): 47
+   - Avg lamina spacing (within-image): 78.38 px
+   - Avg thickness_to_next (cross-image aware): 88.11 px (n=47)
+   - Spacing CV: 122.2 %
+   - Avg dip angle: 2.66 deg
+   - Avg supporting scan lines: 14.85 / 18
+   - Candidate change-points: 1683 (diagnostic; sum over all scan lines)
+
+7. 27-7h
+   - Unique laminae (cross-line clustered): 38
+   - Avg lamina spacing (within-image): 93.22 px
+   - Avg thickness_to_next (cross-image aware): 106.87 px (n=38)
+   - Spacing CV: 100.4 %
+   - Avg dip angle: 2.99 deg
+   - Avg supporting scan lines: 14.63 / 18
+   - Candidate change-points: 1690 (diagnostic; sum over all scan lines)
+
+8. 27-8h
+   - Unique laminae (cross-line clustered): 31
+   - Avg lamina spacing (within-image): 120.93 px
+   - Avg thickness_to_next (cross-image aware): 120.93 px (n=30)
+   - Spacing CV: 101.6 %
+   - Avg dip angle: 2.95 deg
+   - Avg supporting scan lines: 14.87 / 18
+   - Candidate change-points: 1219 (diagnostic; sum over all scan lines)
+
+Image processing order:
+----------------------------------------
+1. 27-1h
+2. 27-2h
+3. 27-3h
+4. 27-4h
+5. 27-5h
+6. 27-6h
+7. 27-7h
+8. 27-8h
